@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Communication</string>
+    <string name="conversation2_text">%s %s</string>
+    <string name="conversation1_text">%s %s</string>
+</resources>
