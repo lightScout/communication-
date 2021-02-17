@@ -2,4 +2,6 @@
     <string name="app_name">Communication</string>
     <string name="conversation2_text">%s %s</string>
     <string name="conversation1_text">%s %s</string>
+    <string name="message_hint">Type your message here</string>
+    <string name="send_button_text">Send</string>
 </resources>

@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         // <- onClick Section ->
 
 
-        // When clicked, the app will navigate main_activity2
+        // When clicked, the app will navigate to main_activity2
         // passing the information(message) typed on messageEditText inside the intent bundle
         // to be accessible and later on manipulated on main_activity2
         sendButton.setOnClickListener(new View.OnClickListener() {
